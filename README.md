@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/img/logo.png" width="180" alt="Farhuaad Logo">
+  <img src="/public_html/assets/img/logo.png" width="180" alt="Farhuaad Logo">
 </p>
 
 <h1 align="center">Farhuaad</h1>
